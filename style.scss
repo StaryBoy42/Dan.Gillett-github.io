@@ -18,9 +18,13 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background-image: url(https://www.fg-a.com/wallpapers/1-circuit-red-1280.jpg);
+  font: 18px/1.4 "courier new";
+  color: #b366ff;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
 }
 
 .container {
